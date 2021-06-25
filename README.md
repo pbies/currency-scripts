@@ -3,15 +3,15 @@ Various currency prices download scripts
 
 ## Content
 
-dl-curr1 - bash for downloading charts: CHF, EUR, GBP, USD
-dl-curr2-dygraph.py - python for downloading prices: date, GBP, EUR, CHF, USD, NOK; for Dygraphs
-dl-curr3-dygraph.ps1 - powershell for downloading prices: date, EUR, USD, CHF, GBP; for Dygraphs
-dl-curr4-dygraph.ps1 - powershell for downloading prices: date, GBP, EUR, CHF, USD, NOK; for Dygraphs
-dl-curr5-dygraph - bash for downloading prices: date, GBP, EUR, CHF, USD, NOK; for Dygraphs
-dl-curr6-dygraph.pl - perl for downloading prices: date, EUR, USD, CHF, GBP; for Dygraphs
-dl-curr7-dygraph.pl - perl for downloading prices: date, GBP, EUR, CHF, USD, NOK; for Dygraphs
-dl-curr8-dygraph.py - python for downloading prices: date, GBP, EUR, CHF, USD, NOK; for Dygraphs
-dl-euro.ps1 - powershell for downloading prices: date, EUR buy, EUR sell; for Dygraphs
+* dl-curr1 - bash for downloading charts: CHF, EUR, GBP, USD
+* dl-curr2-dygraph.py - python for downloading prices: date, GBP, EUR, CHF, USD, NOK; for Dygraphs
+* dl-curr3-dygraph.ps1 - powershell for downloading prices: date, EUR, USD, CHF, GBP; for Dygraphs
+* dl-curr4-dygraph.ps1 - powershell for downloading prices: date, GBP, EUR, CHF, USD, NOK; for Dygraphs
+* dl-curr5-dygraph - bash for downloading prices: date, GBP, EUR, CHF, USD, NOK; for Dygraphs
+* dl-curr6-dygraph.pl - perl for downloading prices: date, EUR, USD, CHF, GBP; for Dygraphs
+* dl-curr7-dygraph.pl - perl for downloading prices: date, GBP, EUR, CHF, USD, NOK; for Dygraphs
+* dl-curr8-dygraph.py - python for downloading prices: date, GBP, EUR, CHF, USD, NOK; for Dygraphs
+* dl-euro.ps1 - powershell for downloading prices: date, EUR buy, EUR sell; for Dygraphs
 
 ## Authors
 
