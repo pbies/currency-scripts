@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+# (C) 2021 Piotr Biesiada
+
+d=$(date "+%Y-%m-%d")
+mkdir ~/curr/$d
+cd ~/curr/$d
+curl -o "CHF-$d.jpg" https://www.nbp.pl/wykresy2.aspx?cc=CHF
+curl -o "EUR-$d.jpg" https://www.nbp.pl/wykresy2.aspx?cc=EUR
+curl -o "GBP-$d.jpg" https://www.nbp.pl/wykresy2.aspx?cc=GBP
+curl -o "USD-$d.jpg" https://www.nbp.pl/wykresy2.aspx?cc=USD
