@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-# (C) 2021 Piotr Biesiada
-
 # apt install python3-pip
 # pip install urllib3 xmltodict
 
