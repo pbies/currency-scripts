@@ -1,5 +1,3 @@
-# (C) 2021 Piotr Biesiada
-
 $PSDefaultParameterValues['Out-File:Encoding'] = 'utf8'
 $dir=(new-object Net.WebClient).DownloadString("http://www.nbp.pl/kursy/xml/dir.txt")
 $dir=$dir -split '[\r\n]'

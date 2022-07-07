@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-# (C) 2021 Piotr Biesiada
-
 d=$(date "+%Y-%m-%d")
 mkdir ~/curr/$d
 cd ~/curr/$d

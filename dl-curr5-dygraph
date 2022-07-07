@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-# (C) 2021 Piotr Biesiada
-
 TMP1=$(curl --retry 5 -s -m 10 "http://www.nbp.pl/kursy/xml/dir.txt")
 output="wal.csv"
 echo "D,GBP,EUR,CHF,USD,NOK" > "$output"
