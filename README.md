@@ -1,6 +1,8 @@
 	currency-scripts
 	================
 
+		https://github.com/pbies/currency-scripts
+
 		Various currency prices download scripts
 
 	Content
